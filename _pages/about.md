@@ -10,10 +10,10 @@ header:
 **Data Science Experience:**  Data Wrangling, Data Mining & Transformation | Data Modeling & Machine Learning | Data Visualization & Reporting | Deep Learning
 
 **Skills and Tools:**
-    •	Data Science Programming Languages: Python, R, and SQL
-    •	Visualization Tools:  Tableau and Power BI
-    •	Extensive Experience:  Microsoft Excel
-    •	Knowledge of:  SQLite3, Ruby, COBOL, HTML, CSS, JavaScript
+    *•	Data Science Programming Languages: Python, R, and SQL
+    *•	Visualization Tools:  Tableau and Power BI
+    *•	Extensive Experience:  Microsoft Excel
+    *•	Knowledge of:  SQLite3, Ruby, COBOL, HTML, CSS, JavaScript
 
 **Prior Experience/Education:**  I have worked as a lawyer and CPA for 25+ years.  I specialized in tax, estate planning and business planning.  I hold a J.D. (Magna Cum Laude) and B.S.B.A. (Summa Cum Laude) from Creighton University and a Business Analytics Certificate from Bellevue University.
 
