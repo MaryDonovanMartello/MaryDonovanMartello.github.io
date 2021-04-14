@@ -21,7 +21,7 @@ The goal of this project was to design predictive binary classification models t
 
 * Scikit-learn 
 * Keras
-* Seaborn|
+* Seaborn
 * Matplotlib
 * Numpy
 * Pandas
@@ -29,7 +29,7 @@ The goal of this project was to design predictive binary classification models t
 
 **Data**
 
-[hyperlink] http://archive.ics.uci.edu/ml 
+[UCI](http://archive.ics.uci.edu/ml) 
 
 **Models / Methods / Metrics**
 
@@ -50,17 +50,17 @@ The Gradient Boosting Classification model had the best Recall and Log Loss Erro
 
 The EDA shows there are distinctions between the default records and the non-default records.
 
-![image.png](/images/credit card/ECD.jpg)
+![image.png](/images/credit card/ECD.png)
 
-![image.png](/images/credit card/Pay1.jpg)
+![image.png](/images/credit card/Pay1.png)
 
-![image.png](/images/credit card/mean.jpg)
+![image.png](/images/credit card/mean.png)
 
 ### Principal Component Analysis
 
 PCA was implemented because of multicollinearity between groups of input variables.
 
-![image.png](/images/credit card/PCA.jpg)
+![image.png](/images/credit card/PCA.png)
 
 ### Modeling
 
@@ -71,10 +71,10 @@ The imbalanced target variable was addressed by using predicted probabilities fo
 
 **Gradient Boosting Classification, Logistic Regression and Random Forest Models:**
 
-![image.png](/images/credit card/Results1.jpg)
+![image.png](/images/credit card/Results1.png)
 
 **Artificial Neural Networks:**
 
-![image.png](/images/credit card/ResultsANN.jpg)
+![image.png](/images/credit card/ResultsANN.png)
 
 
