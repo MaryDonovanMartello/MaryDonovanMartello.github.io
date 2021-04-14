@@ -50,7 +50,7 @@ The Gradient Boosting Classification model had the best Recall and Log Loss Erro
 
 The EDA shows there are distinctions between the default records and the non-default records.
 
-![image.png](/images/credit card/ECD.PNG)
+![ECD](/images/credit card/ECD.PNG)
 
 ![image.png](/images/credit card/Pay1.PNG)
 
