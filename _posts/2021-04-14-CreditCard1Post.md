@@ -50,17 +50,17 @@ The Gradient Boosting Classification model had the best Recall and Log Loss Erro
 
 The EDA shows there are distinctions between the default records and the non-default records.
 
-![image.png](/images/credit card/ECD.png)
+![image.png](/images/credit card/ECD.PNG)
 
-![image.png](/images/credit card/Pay1.png)
+![image.png](/images/credit card/Pay1.PNG)
 
-![image.png](/images/credit card/mean.png)
+![image.png](/images/credit card/mean.PNG)
 
 ### Principal Component Analysis
 
 PCA was implemented because of multicollinearity between groups of input variables.
 
-![image.png](/images/credit card/PCA.png)
+![image.png](/images/credit card/PCA.PNG)
 
 ### Modeling
 
@@ -71,10 +71,10 @@ The imbalanced target variable was addressed by using predicted probabilities fo
 
 **Gradient Boosting Classification, Logistic Regression and Random Forest Models:**
 
-![image.png](/images/credit card/Results1.png)
+![image.png](/images/credit card/Results1.PNG)
 
 **Artificial Neural Networks:**
 
-![image.png](/images/credit card/ResultsANN.png)
+![image.png](/images/credit card/ResultsANN.PNG)
 
 
