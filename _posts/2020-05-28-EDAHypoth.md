@@ -47,11 +47,13 @@ _Incident Severity_
 
 ![Severity](/images/claims/Severity.PNG)
 
+
 _Witnesses_
 
 Fraud reported cases have higher means and quartiles for number of witnesses at every checkpoint. 
 
 ![Witnesses](/images/claims/Witnesses.PNG)
+
 
 _Total Claim Amount_
 
@@ -59,11 +61,13 @@ Fraud reported cases have higher means and quartiles for total claim amounts at 
 
 ![Amounts](/images/claims/Amounts.PNG)
 
+
 _Hobbies_
 
 The claimant's hobbies show some variation in fraud cases.
 
 ![Hobbies](/images/claims/Hobbies.PNG)
+
 
 _Umbrella Limit_
 
