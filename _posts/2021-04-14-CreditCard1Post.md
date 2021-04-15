@@ -4,7 +4,7 @@ date: 2021-04-14
 tags: [imbalanced target, data science, binary classification]
 header:
   image: "/images/credit card/creditCardImage.jpg"
-excerpt: "Data Science, Imbalanced Target, Binary Classification"
+excerpt: "Binary Classification, Imbalanced Target, Python, Keras"
 mathjax: "true"
 ---
 
