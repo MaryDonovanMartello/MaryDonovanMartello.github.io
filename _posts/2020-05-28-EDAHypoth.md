@@ -4,7 +4,7 @@ date: 2020-05-28
 tags: [EDA, data science, hypothesis testing]
 header:
   image: "/images/claims/EDA.webp"
-excerpt: "Data Science, EDA, Hypothesis Testing"
+excerpt: "EDA, Hypothesis Testing, Phython"
 mathjax: "true"
 ---
 
