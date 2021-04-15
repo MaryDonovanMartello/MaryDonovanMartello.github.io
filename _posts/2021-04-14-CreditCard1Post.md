@@ -21,7 +21,7 @@ The goal of this project was to design predictive binary classification models t
 
 * Scikit-learn 
 * Keras
-* Seaborn|
+* Seaborn
 * Matplotlib
 * Numpy
 * Pandas
@@ -29,7 +29,7 @@ The goal of this project was to design predictive binary classification models t
 
 **Data**
 
-[hyperlink] http://archive.ics.uci.edu/ml 
+[UCI](http://archive.ics.uci.edu/ml) 
 
 **Models / Methods / Metrics**
 
@@ -50,17 +50,17 @@ The Gradient Boosting Classification model had the best Recall and Log Loss Erro
 
 The EDA shows there are distinctions between the default records and the non-default records.
 
-![image.png](/images/credit card/ECD.jpg)
+![ECD](/images/credit card/ECD.PNG)
 
-![image.png](/images/credit card/Pay1.jpg)
+![PAY1](/images/credit card/Pay1.PNG)
 
-![image.png](/images/credit card/mean.jpg)
+![MEAN](/images/credit card/mean.PNG)
 
 ### Principal Component Analysis
 
 PCA was implemented because of multicollinearity between groups of input variables.
 
-![image.png](/images/credit card/PCA.jpg)
+![PCA](/images/credit card/PCA.PNG)
 
 ### Modeling
 
@@ -71,10 +71,11 @@ The imbalanced target variable was addressed by using predicted probabilities fo
 
 **Gradient Boosting Classification, Logistic Regression and Random Forest Models:**
 
-![image.png](/images/credit card/Results1.jpg)
+![RESULTS1](/images/credit card/Results1.PNG)
 
 **Artificial Neural Networks:**
 
-![image.png](/images/credit card/ResultsANN.jpg)
+![ANNRESULTS](/images/credit card/ResultsANN.PNG)
 
+### The Complete Project: [here](https://github.com/MaryDonovanMartello/Credit-Card-Default-Prediction).
 
