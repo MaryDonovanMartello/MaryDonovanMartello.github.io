@@ -1,13 +1,12 @@
 ---
-title: "Exploratory Data Analysis and Hypothesis Testing"
-date: 2020-05-28
-tags: [EDA, data science, hypothesis testing]
+title: "Credit Card Default Classification Prediction2"
+date: 2021-04-14
+tags: [imbalanced target, data science, binary classification]
 header:
-  image: "/images/claims/EDA.jpg"
-excerpt: "Data Science, EDA, Hypothesis Testing"
+  image: "/images/credit card/creditCardImage.jpg"
+excerpt: "Data Science, Imbalanced Target, Binary Classification"
 mathjax: "true"
 ---
-
 # Exploratory Data Analysis / Hypothesis Testing
 ## Automobile Insurance Claim Fraud Factors
 **Overview**
