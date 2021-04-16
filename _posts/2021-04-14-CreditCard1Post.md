@@ -1,5 +1,5 @@
 ---
-title: "Credit Card Default Classification Prediction"
+title: "Credit Card Defaults Classification Prediction"
 date: 2021-04-14
 tags: [imbalanced target, data science, binary classification]
 header:
@@ -9,8 +9,7 @@ mathjax: "true"
 ---
 
 
-# Credit Card Default Prediction
-
+# Credit Card Defaults Prediction
 ## Classification Prediction with Imbalanced Target
 
 **Summary**
@@ -36,6 +35,7 @@ The goal of this project was to design predictive binary classification models t
 * Gradient Boosting Classification 
 * Artificial Neural Network
 * Random Forest
+* Logistic Regression / LASSO Logistic Regression
 * Principal Component Analysis
 * Log-Transformation and Scaling
 * Recall, Log-Loss and Binary Crossentropy Loss
