@@ -36,7 +36,9 @@ The goal of this project was to design predictive binary classification models t
 * Artificial Neural Network
 * Random Forest
 * Logistic Regression / LASSO Logistic Regression
-* Principal Component Analysis
+* Feature Selection:  
++ Principal Component Analysis
++ ANOVA and Feature Importance Models 
 * Log-Transformation and Scaling
 * Recall, Log-Loss and Binary Crossentropy Loss
 
