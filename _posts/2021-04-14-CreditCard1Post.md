@@ -9,8 +9,7 @@ mathjax: "true"
 ---
 
 
-# Credit Card Defaults Classification
-## Classification with Imbalanced Target
+#Classification with Imbalanced Target
 
 **Summary**
 
@@ -37,8 +36,8 @@ The goal of this project was to design predictive binary classification models t
 * Random Forest
 * Logistic Regression / LASSO Logistic Regression
 * Feature Selection:  
-+ Principal Component Analysis
-+ ANOVA and Feature Importance Models 
+  + Principal Component Analysis
+  + ANOVA and Feature Importance Models 
 * Log-Transformation and Scaling
 * Recall, Log-Loss and Binary Crossentropy Loss
 
