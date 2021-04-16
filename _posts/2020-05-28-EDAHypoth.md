@@ -16,7 +16,7 @@ This project used exploratory data analysis and statistical techniques in Python
 
 **Statistical Questions**
 
-* What variabless in the auto insurance claim records show a distinction between fraudulent claims and non-fraudulent claims?
+* What variables in the auto insurance claim records show a distinction between fraudulent claims and non-fraudulent claims?
 * Do the values of variables in observations in which fraud was reported differ statistically from the values of variables in observations in which no fraud was reported?
 
 **Hypotheses**
