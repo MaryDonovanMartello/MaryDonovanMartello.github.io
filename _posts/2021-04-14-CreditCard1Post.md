@@ -1,5 +1,5 @@
 ---
-title: "Credit Card Defaults Classification Prediction"
+title: "Credit Card Defaults Classification"
 date: 2021-04-14
 tags: [imbalanced target, data science, binary classification]
 header:
@@ -9,8 +9,8 @@ mathjax: "true"
 ---
 
 
-# Credit Card Defaults Prediction
-## Classification Prediction with Imbalanced Target
+# Credit Card Defaults Classification
+## Classification with Imbalanced Target
 
 **Summary**
 
@@ -64,7 +64,7 @@ PCA was implemented because of multicollinearity between groups of input variabl
 
 ### Modeling
 
-The imbalanced target variable was addressed by using predicted probabilities for positive outcome based on best classification threshold, and for the Artificial Neural Network, by weighting the the binary target classes.
+The imbalanced target variable was addressed by using predicted probabilities for positive outcome based on best classification threshold, and for the Artificial Neural Network, by weighting the binary target classes.
 
 
 ### Evaluation
