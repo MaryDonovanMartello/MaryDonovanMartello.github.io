@@ -39,6 +39,7 @@ The goal of this project was to design predictive binary classification models t
   + Principal Component Analysis
   + ANOVA and Feature Importance Models 
 * Log-Transformation and Scaling
+* GridSearch
 * Recall, Log-Loss and Binary Crossentropy Loss
 
 **Results**
