@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 
 
-#Classification with Imbalanced Target
+## Classification with Imbalanced Target
 
 **Summary**
 
