@@ -12,7 +12,7 @@ mathjax: "true"
 
 **Summary**
 
-This was my first data science project.  The focus of the course that it was submitted to was statistical analysis using R.  The goal of this project was to use R and statistical analysis to identify significant features in fraudulent insurance claim transactions and to design a classification model to predict whether fraud was reported on the insurance claim transaction.  K-Nearest Neighbor was the model tested. The paper walks through the steps to the project.  
+This was my first data science project.  The focus of the course was statistical analysis using R.  The goal of this project was to use R and statistical analysis to identify significant features in fraudulent insurance claim transactions and to design a classification model to predict whether fraud was reported on the insurance claim transaction.  K-Nearest Neighbor was the model tested. The paper walks through the steps to the project.  
 
 **Libraries**
 
