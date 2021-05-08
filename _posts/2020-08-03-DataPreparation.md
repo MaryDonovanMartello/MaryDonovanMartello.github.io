@@ -11,7 +11,7 @@ mathjax: "true"
 ## Mutual Fund Data
 
 ### Overview
-This project consisted of collecting, cleaning and preparing data from three different sources: a flat file, a website (collected by scraping the website), and an API. The cleaning of the data utilized pandas DataFrame. The final product included joining all three sources on the same key by storing them in a SQLite database.
+This project consisted of collecting, cleaning and preparing data from three different sources: a flat file, a website (collected by scraping the website), and an API. The cleaning of the data utilized a pandas DataFrame. The final product included joining all three sources on the same key by storing them in a SQLite database.
 
 ### Tools:
 
