@@ -1,10 +1,10 @@
 ---
 title: "Mutual Fund Price Prediction"
 date: 2020-11-20
-tags: [price prediction, data science, continuous value prediction]
+tags: [price prediction, data science, continuous value prediction, linear regression]
 header:
   image: "/images/credit card/creditCardImage.jpg"
-excerpt: "Continuous Value Prediction, Regression, Python"
+excerpt: "Continuous Value Prediction, Data Preparation, Linear Regression, Python"
 mathjax: "true"
 ---
 
