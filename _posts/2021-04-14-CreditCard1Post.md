@@ -35,6 +35,7 @@ The goal of this project was to design predictive binary classification models t
 * Artificial Neural Network
 * Random Forest
 * Logistic Regression / LASSO Logistic Regression
+* Receiver Operating Characteristic curve and Youden's J statistic
 * Feature Selection:  
   + Principal Component Analysis
   + ANOVA and Feature Importance Models 
