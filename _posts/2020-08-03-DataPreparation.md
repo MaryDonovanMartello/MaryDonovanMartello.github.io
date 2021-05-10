@@ -17,6 +17,7 @@ This project consisted of collecting, cleaning and preparing data from three dif
 
 * Pandas
 * BeautifulSoup
+* SQL
 * Sqlite3
 * Notebooks
 
