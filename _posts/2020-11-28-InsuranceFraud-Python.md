@@ -56,4 +56,4 @@ PCA was implemented because of multicollinearity between groups of input variabl
 ![PCA](/images/claims/PCA.PNG)
 
 
-### The Complete Project: [here](https://github.com/MaryDonovanMartello/).
+### The Complete Project: [here](https://github.com/MaryDonovanMartello/Insurance-Fraud-in-Python).
