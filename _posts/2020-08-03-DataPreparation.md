@@ -3,7 +3,7 @@ title: "Data Collection and Preparation"
 date: 2020-08-03
 tags: [data science, data wrangling, data collection]
 header:
-  image: "/images/credit card/creditCardImage.jpg"
+  image: "/images/Test3.jpg"
 excerpt: "Data Collection, Data Wrangling, SQL, Python"
 mathjax: "true"
 ---
