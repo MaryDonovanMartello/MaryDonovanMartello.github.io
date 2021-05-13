@@ -3,7 +3,7 @@ title: "Storytelling with Data"
 date: 2021-03-02
 tags: [data science, visualization, dashboard]
 header:
-  image: "/images/credit card/creditCardImage.jpg"
+  image: "/images/Map.PNG"
 excerpt: "Data Visualization, Python, Tableau, PowerBI"
 mathjax: "true"
 ---
