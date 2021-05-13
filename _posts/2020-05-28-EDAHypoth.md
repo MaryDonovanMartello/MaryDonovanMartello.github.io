@@ -3,7 +3,7 @@ title: "Exploratory Data Analysis and Hypothesis Testing"
 date: 2020-05-28
 tags: [EDA, data science, hypothesis testing]
 header:
-  image: "/images/claims/EDA.jpg"
+  image: "/images/EDA.jpg"
 excerpt: "EDA, Hypothesis Testing, Phython"
 mathjax: "true"
 ---
