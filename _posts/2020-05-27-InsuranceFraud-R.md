@@ -3,7 +3,7 @@ title: "Insurance Fraud in R"
 date: 2020-05-27
 tags: [fraud detection, data science, binary classification, statistical analysis, k-nearest]
 header:
-  image: "/images/fraud2.jpg"
+  image: "/images/scope.jpg"
 excerpt: "Fraud Detection, Statistical Analysis, K-Nearest Neighbor, R"
 mathjax: "true"
 ---
