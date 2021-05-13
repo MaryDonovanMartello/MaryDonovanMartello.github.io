@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 header:
+  image: "/images/London.jpg"
 ---
 
 <div id="contact">
