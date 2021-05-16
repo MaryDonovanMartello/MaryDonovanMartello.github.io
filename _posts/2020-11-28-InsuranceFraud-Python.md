@@ -1,7 +1,7 @@
 ---
 title: "Insurance Fraud in Python"
 date: 2020-11-28
-tags: [fraud detection, data science, binary classification]
+
 header:
   image: "/images/scope2.jpg"
 excerpt: "Fraud Detection, Binary Classification, Imbalanced Target, Python"
