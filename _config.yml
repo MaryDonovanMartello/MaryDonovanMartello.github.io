@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Mary Donovan Martello"
-  avatar           : "/images/Head0324.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Head0326.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Omaha, NE"
   email            :
