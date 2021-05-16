@@ -1,7 +1,7 @@
 ---
 title: "Credit Card Defaults Classification"
 date: 2021-04-14
-tags: [imbalanced target, data science, binary classification]
+
 header:
   image: "/images/cards2.jpg"
 excerpt: "Binary Classification, Imbalanced Target, Python, Keras"
