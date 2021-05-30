@@ -23,6 +23,13 @@
           alt="">
       </div>
     {% endif %}
+    
+    <!-- added May 30 -->
+    <hr size="12">
+    {% if post.image %}
+      <img class="img-fluid" src="{{ post.image }}" alt="{{ post.title }}"> 
+    {% endif %}
+    
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
