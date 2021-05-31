@@ -4,6 +4,7 @@ date: 2020-11-28
 
 header:
   image: "/images/scope2.jpg"
+  teaser: "/images/scope3.jpg"
 excerpt: "Fraud Detection, Binary Classification, Imbalanced Target, Python"
 mathjax: "true"
 ---
