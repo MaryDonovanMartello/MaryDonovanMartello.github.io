@@ -5,7 +5,6 @@ date: 2021-04-14
 header:
   image: "/images/cards2.jpg"
   teaser: "/images/scale.png"
-<!--   teaser: "/images/cards2.jpg" -->
 excerpt: "Binary Classification, Imbalanced Target, Python, Keras"
 mathjax: "true"
 ---
@@ -84,3 +83,4 @@ The imbalanced target variable was addressed by using predicted probabilities fo
 
 ### The Complete Project: [here](https://github.com/MaryDonovanMartello/Credit-Card-Default-Prediction).
 
+<!--   teaser: "/images/cards2.jpg" -->
