@@ -4,7 +4,8 @@ date: 2020-11-20
 
 header:
   image: "/images/credit card/creditCardImage.jpg"
-  teaser: "/images/Funds.PNG"
+  teaser: "/images/scope3.jpg"
+<!--   teaser: "/images/Funds.PNG" -->
 excerpt: "Continuous Value Prediction, Data Preparation, Linear Regression, Python"
 mathjax: "true"
 ---
