@@ -5,7 +5,6 @@ date: 2021-03-02
 header:
   image: "/images/Map2.png"
   teaser: "/images/cards2.jpg"
-<!--   teaser: "/images/air/Infographic.PNG" -->
 excerpt: "Data Visualization, Python, Tableau, PowerBI"
 mathjax: "true"
 ---
@@ -48,3 +47,4 @@ This project was a class project for the data visualization course.  The goal wa
 
 
 ### The Complete Project: [here](https://github.com/MaryDonovanMartello/).
+<!--   teaser: "/images/air/Infographic.PNG" -->
