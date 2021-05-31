@@ -4,6 +4,7 @@ date: 2020-08-03
 
 header:
   image: "/images/Test3.jpg"
+  teaser: "/images/Funds.PNG"
 excerpt: "Data Collection, Data Wrangling, SQL, Python"
 mathjax: "true"
 ---
