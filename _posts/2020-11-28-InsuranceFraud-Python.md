@@ -5,7 +5,6 @@ date: 2020-11-28
 header:
   image: "/images/scope2.jpg"
   teaser: "/images/air/Infographic.PNG"
-<!--   teaser: "/images/scope3.jpg" -->
 excerpt: "Fraud Detection, Binary Classification, Imbalanced Target, Python"
 mathjax: "true"
 ---
@@ -59,3 +58,4 @@ PCA was implemented because of multicollinearity between groups of input variabl
 
 
 ### The Complete Project: [here](https://github.com/MaryDonovanMartello/Insurance-Fraud-in-Python).
+<!--   teaser: "/images/scope3.jpg" -->
