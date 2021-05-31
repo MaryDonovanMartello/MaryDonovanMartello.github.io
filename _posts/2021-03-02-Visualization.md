@@ -4,6 +4,7 @@ date: 2021-03-02
 
 header:
   image: "/images/Map2.png"
+  teaser: "/images/air/Infographic.PNG"
 excerpt: "Data Visualization, Python, Tableau, PowerBI"
 mathjax: "true"
 ---
