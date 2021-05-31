@@ -1,9 +1,10 @@
 ---
-title: "Credit Card Defaults Classification"
+title: "Credit Card Defaults Part1: Classification"
 date: 2021-04-14
 
 header:
   image: "/images/cards2.jpg"
+  teaser: "/images/cards2.jpg"
 excerpt: "Binary Classification, Imbalanced Target, Python, Keras"
 mathjax: "true"
 ---
