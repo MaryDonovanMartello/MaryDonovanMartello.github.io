@@ -4,7 +4,7 @@ date: 2020-05-28
 
 header:
   image: "/images/EDA3.jpg"
-  teaser: "/images/net.jpg"
+  teaser: "/images/net.png"
 excerpt: "EDA, Hypothesis Testing, Phython"
 mathjax: "true"
 ---
