@@ -4,6 +4,7 @@ date: 2020-05-27
 
 header:
   image: "/images/scope2.jpg"
+  teaser: "/images/wordcloud2.png"
 excerpt: "Fraud Detection, Statistical Analysis, K-Nearest Neighbor, R"
 mathjax: "true"
 ---
