@@ -26,7 +26,7 @@ This project used exploratory data analysis and statistical techniques in Python
 
 **Data**
 
-[Claims](https://www.kaggle.com/patilk1/fraudulentinsuranceclaim)
+[Claims](https://www.kaggle.com/patilk1/fraudulentinsuranceclaim){:target="_blank"}
 
 **Techniques**
 
