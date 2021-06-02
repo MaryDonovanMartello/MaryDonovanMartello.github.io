@@ -62,5 +62,5 @@ PCA was implemented because of multicollinearity between groups of input variabl
 ![Results](/images/funds/Results.PNG)
 
 
-### The Complete Project: [here](https://github.com/MaryDonovanMartello/Mutual-Fund-Prediction).
+### The Complete Project: [here](https://github.com/MaryDonovanMartello/Mutual-Fund-Prediction){:target="_blank"}.
 <!--   teaser: "/images/Funds.PNG" -->
