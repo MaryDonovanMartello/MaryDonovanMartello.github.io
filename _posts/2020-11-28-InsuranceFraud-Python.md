@@ -28,7 +28,7 @@ The goal of this project was to use Python to identify significant features in f
 * Tabulate
 * Counter
 
-**Data:** [claims](https://www.kaggle.com/patilk1/fraudulentinsuranceclaim)
+**Data:** [claims](https://www.kaggle.com/patilk1/fraudulentinsuranceclaim){:target="_blank"}
 
 ### Methodology
 
