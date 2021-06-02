@@ -31,7 +31,6 @@ QuantPsyc | dplyr | foreign | car | class | caret | ltm
 * Correlation and Partial Correlation
 * Multicollinearity:  Logistic Regression and vif() function
 * Feature selection:  Variable coefficients and odds ratio
-* GridSearch
 
 
 ### Exploratory Data Analysis Preview
