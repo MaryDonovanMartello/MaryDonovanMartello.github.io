@@ -46,5 +46,5 @@ This project was a class project for the data visualization course.  The goal wa
 ![Presentation](/images/air/Presentation.PNG)
 
 
-### The Complete Project: [here](https://github.com/MaryDonovanMartello/).
+### The Complete Project: [here](https://github.com/MaryDonovanMartello/){:target="_blank"}.
 <!--   teaser: "/images/air/Infographic.PNG" -->
