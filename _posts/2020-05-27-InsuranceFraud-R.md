@@ -54,6 +54,6 @@ The number of weeks the policy was owned before the claim show some variation in
 
 
 
-### The Complete Project: [here](https://github.com/MaryDonovanMartello/________).
+### The Complete Project: [here](https://github.com/MaryDonovanMartello/Insurance-Fraud-in-R){:target="_blank"}.
 
 <!--  teaser: "/images/Fraud2.PNG" -->
