@@ -24,7 +24,7 @@ The goal of this project was to use Python to design models to predict mutual fu
 * Pandas
 
 
-**Data:** [funds](https://www.kaggle.com/stefanoleone992/mutual-funds-and-etfs?select=Mutual+Funds.csv)
+**Data:** [funds](https://www.kaggle.com/stefanoleone992/mutual-funds-and-etfs?select=Mutual+Funds.csv){:target="_blank"}
 
 ### Methodology
 
