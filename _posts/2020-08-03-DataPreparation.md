@@ -26,7 +26,7 @@ This project consisted of collecting, cleaning and preparing data from three dif
 
 The first part of this project was to load a flat file such as a CSV and clean the data.
 
-**Source:** Mutual fund dataset located at: [flat file](https://www.kaggle.com/stefanoleone992/mutual-funds-and-etfs?select=Mutual+Funds.csv)
+**Source:** Mutual fund dataset located at: [flat file](https://www.kaggle.com/stefanoleone992/mutual-funds-and-etfs?select=Mutual+Funds.csv){:target="_blank"}
 
 • Demonstrated the following data preparation techniques:
 
