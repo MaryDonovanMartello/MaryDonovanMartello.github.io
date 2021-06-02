@@ -84,4 +84,4 @@ Regarding the hypothesis that there is no significant linear relationship betwee
 
 This analysis utilizes supported code from Allen Downey's ThinkStats2 [ThinkStats2](https://github.com/AllenDowney/ThinkStats2)
 
-### The Complete Project: [here](https://github.com/MaryDonovanMartello/EDA-and-Hypothesis-Testing).
+### The Complete Project: [here](https://github.com/MaryDonovanMartello/EDA-and-Hypothesis-Testing){:target="_blank"}.
