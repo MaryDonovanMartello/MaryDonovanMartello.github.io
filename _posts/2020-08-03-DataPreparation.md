@@ -41,7 +41,7 @@ The first part of this project was to load a flat file such as a CSV and clean t
 
 The second part of the project was to use BeautifulSoup and scrape a website to retrieve data.
 
-**Source:** Mutual fund financial performance located at: [website](https://charts.ussif.org/mfpc/)
+**Source:** Mutual fund financial performance located at: [website](https://charts.ussif.org/mfpc/){:target="_blank"}
 
 • Demonstrated the following data preparation techniques:
 
@@ -55,7 +55,7 @@ The second part of the project was to use BeautifulSoup and scrape a website to 
 
 The last data source came from connecting to an API to pull the data.
 
-**Source:** FMP Finance API: [API](https://financialmodelingprep.com/developer/docs/)
+**Source:** FMP Finance API: [API](https://financialmodelingprep.com/developer/docs/){:target="_blank"}
 
 • Demonstrated the following data preparation techniques:
 
