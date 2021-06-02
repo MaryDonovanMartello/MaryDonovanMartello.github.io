@@ -28,7 +28,7 @@ The goal of this project was to design predictive binary classification models t
 
 **Data**
 
-[UCI](http://archive.ics.uci.edu/ml) 
+[UCI](http://archive.ics.uci.edu/ml){:target="_blank"}
 
 **Models / Methods / Metrics**
 
