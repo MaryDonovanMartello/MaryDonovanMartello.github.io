@@ -48,7 +48,7 @@ Compared multiple versions of models that varied techniques for data-splitting, 
 
 ### Exploratory Data Analysis
 
-This project utilized the EDA from this Exploratory Data Analysis and Hypothesis Testing project: [EDA.](EDA-and-Hypothesis-Testing)
+This project utilized the EDA from this Exploratory Data Analysis and Hypothesis Testing project: [EDA.](https://github.com/MaryDonovanMartello/EDA-and-Hypothesis-Testing){:target="_blank"}
 
 ### Principal Component Analysis
 
