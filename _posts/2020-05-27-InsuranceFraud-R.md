@@ -22,7 +22,7 @@ QuantPsyc | dplyr | foreign | car | class | caret | ltm
 
 **Data**
 
-[claims](https://www.kaggle.com/patilk1/fraudulentinsuranceclaim) 
+[claims](https://www.kaggle.com/patilk1/fraudulentinsuranceclaim){:target="_blank"}
 
 
 **Models / Methods / Metrics**
