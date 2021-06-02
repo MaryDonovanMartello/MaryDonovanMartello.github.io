@@ -75,4 +75,4 @@ The last data source came from connecting to an API to pull the data.
 * Performing a left outer join to combine all three tables
 
 
-### The Complete Project: [here](https://github.com/MaryDonovanMartello/https://github.com/MaryDonovanMartello/Data-Collection-Preparation-Mutual-Funds).
+### The Complete Project: [here](https://github.com/MaryDonovanMartello/https://github.com/MaryDonovanMartello/Data-Collection-Preparation-Mutual-Funds){:target="_blank"}.
