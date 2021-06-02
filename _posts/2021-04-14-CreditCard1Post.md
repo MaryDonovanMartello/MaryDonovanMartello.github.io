@@ -81,6 +81,6 @@ The imbalanced target variable was addressed by using predicted probabilities fo
 
 ![ANNRESULTS](/images/credit card/ResultsANN.PNG)
 
-### The Complete Project: [here](https://github.com/MaryDonovanMartello/Credit-Card-Default-Prediction).
+### The Complete Project: [here](https://github.com/MaryDonovanMartello/Credit-Card-Default-Prediction){:target="_blank"}.
 
 <!--   teaser: "/images/cards2.jpg" -->
