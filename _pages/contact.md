@@ -1,7 +1,7 @@
 ---
-permalink: /contact/
+permalink: #/contact/
 header:
-  image: "/images/London2.jpg"
+  image: #"/images/London2.jpg"
 ---
 
 <div id="contact">
