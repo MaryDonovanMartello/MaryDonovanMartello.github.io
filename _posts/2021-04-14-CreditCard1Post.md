@@ -1,5 +1,5 @@
 ---
-title: "Credit Card Defaults Part1: Classification"
+title: "Credit Card Defaults Part 1: Classification"
 date: 2021-04-14
 
 header:
