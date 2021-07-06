@@ -9,7 +9,7 @@ excerpt: "Fraud Detection, Binary Classification, Imbalanced Target, Python"
 mathjax: "true"
 ---
 
-## EDA and Classification Prediction
+## Classification Prediction
 
 ### Summary
 
