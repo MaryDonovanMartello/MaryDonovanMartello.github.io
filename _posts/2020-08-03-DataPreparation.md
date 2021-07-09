@@ -1,5 +1,5 @@
 ---
-title: "Data Collection and Preparation"
+title: "Data Collection and Preparation / Database and SQL"
 date: 2020-08-03
 
 header:
@@ -12,7 +12,7 @@ mathjax: "true"
 ## Mutual Fund Data
 
 ### Overview
-This project consisted of collecting, cleaning and preparing data from three different sources: a flat file, a website (collected by scraping the website), and an API. The cleaning of the data utilized a pandas DataFrame. The final product included joining all three sources on the same key by storing them in a SQLite database.
+This project consisted of collecting, cleaning and preparing data from three different sources: a flat file, a website (collected by scraping the website), and an API. The cleaning of the data utilized a pandas DataFrame. The final product included joining all three sources on the same key, storing them in a SQLite database and executing SQL commands to create simple visualizations.
 
 ### Tools:
 
@@ -66,13 +66,14 @@ The last data source came from connecting to an API to pull the data.
 * Replace missing values
 * Create new Series with calculated values
 
-### Part 4 – Database
+### Part 4 – Database and SQL
 
 • Demonstrated the following:
 
 * Creating a SQLite database
 * Creating three separate tables
 * Performing a left outer join to combine all three tables
+* Executing SQL commands to create simple visualizations
 
 
 ### The Complete Project: [here](https://github.com/MaryDonovanMartello/Data-Collection-Preparation-Mutual-Funds){:target="_blank"}.
