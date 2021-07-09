@@ -49,7 +49,7 @@ Compared multiple versions of models that varied techniques for data-splitting a
 
 A few features have a strong correlation with the target variable: ytd_return
 
-![Correlation](/images/funds/Results.PNG)
+![Correlation](/images/funds/Corr.PNG)
 
 ### Principal Component Analysis
 
@@ -57,7 +57,7 @@ PCA was implemented because of multicollinearity between groups of input variabl
 
 ### Results
 
-![Results](/images/funds/Corr.PNG)
+![Results](/images/funds/Results.PNG)
 
 
 ### The Complete Project: [here](https://github.com/MaryDonovanMartello/Mutual-Fund-Prediction){:target="_blank"}.
