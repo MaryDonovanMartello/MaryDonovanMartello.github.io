@@ -55,8 +55,6 @@ A few features have a strong correlation with the target variable: ytd_return
 
 PCA was implemented because of multicollinearity between groups of input variables.
 
-![PCA](/images/funds/Results.PNG)
-
 ### Results
 
 ![Results](/images/funds/Results.PNG)
