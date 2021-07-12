@@ -13,7 +13,7 @@ mathjax: "true"
 
 ### Summary
 
-The goal of this project was to use Python to identify significant features in fraudulent insurance claim transactions and to design predictive classification models to predict whether fraud was reported on the insurance claim transaction. The project compared results from the imbalanced dataset with results of an oversampled target variable. Logistic Regression, Support Vector Machine Classification, and Random Forest models were tested. The paper and presentation walk through the data understanding and preparation, different models tested, methodology, and evaluation of the project.
+The goal of this project was to use Python to identify significant features in fraudulent insurance claim transactions and to design predictive classification models to predict whether fraud was reported on the insurance claim transaction. The project addressed the imbalanced target variable by weighting the classes Logistic Regression, Support Vector Machine Classification, and Random Forest models were tested. The paper walks through the data understanding and preparation, different models tested, methodology, and evaluation of the project.
 
 ### Tools
 
@@ -58,9 +58,9 @@ This project utilized the EDA from this Exploratory Data Analysis and Hypothesis
 
 PCA was implemented because of multicollinearity between groups of input variables.
 
-### Modeling
-
 ### Evaluation
+
+![RESULTS1](/images/Results.PNG)
 
 ### The Complete Project: [here](https://github.com/MaryDonovanMartello/Insurance-Fraud-in-Python){:target="_blank"}.
 <!--   teaser: "/images/scope3.jpg" -->
