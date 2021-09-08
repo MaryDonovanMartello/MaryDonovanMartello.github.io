@@ -44,9 +44,6 @@ Compared multiple versions of models that varied techniques for data-splitting, 
 * GridSearch
 * Recall
 
-### Results
-
-To be added.
 
 ## Project Preview
 
@@ -60,7 +57,7 @@ PCA was implemented because of multicollinearity between groups of input variabl
 
 ### Evaluation
 
-![RESULTS1](/images/fraud/Results.PNG)
+![RESULTS1](/images/fraud/Results2.PNG)
 
 ### The Complete Project: [here](https://github.com/MaryDonovanMartello/Insurance-Fraud-in-Python){:target="_blank"}.
 <!--   teaser: "/images/scope3.jpg" -->
