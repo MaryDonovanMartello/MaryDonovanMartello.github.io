@@ -48,7 +48,7 @@ The second part of the project was to use BeautifulSoup and scrape a website to 
 * Rename columns to be make consistent for merging with other data frames
 * Strip string representation of numbers of dollar signs and letters
 * Replace symbols with integers
-* Convert data types from strings to floats”
+* Convert data types from strings to floats
 * Convert date formats
 
 ### Part 3 – API Source
