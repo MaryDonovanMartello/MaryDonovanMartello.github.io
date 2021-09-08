@@ -5,7 +5,7 @@ header:
   image: "/images/Louvre.jpg"
 ---
 
-**My resume:** [Resume](/images/Resume_MDM_HTI.pdf){:target="_blank"}
+**My resume:** [Resume](/images/Resume_MDM_2021rev.pdf){:target="_blank"}
 
 **Why Data Science?**  After 25+ years of applying my analytical and problem-solving skills to my legal and accounting career, I am now using my analytical, problem-solving and statistical skills to transition to a data science career. I love problem-solving, analyzing, and presenting solutions; and I enjoyed using those skills in programming, statistical analysis, machine learning and predictive modeling in completing a Master’s program in Data Science through Bellevue University:  [Curriculum](https://www.bellevue.edu/degrees/master/data-science-ms/).  
 
